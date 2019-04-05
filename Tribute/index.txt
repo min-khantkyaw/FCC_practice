@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <title>Lee Ji-eun</title>
+  </head>
+  <body>
+    <div id ="main">
+      <div id="title">
+        <h1>Lee Ji-eun</h1>  
+        <h2>A very young, yet talented artist</h2>
+      </div>    
+    </div>
+    <div id="img-div">
+      <img id="image" src = "https://allstarbio.com/wp-content/uploads/2019/01/Lee-Ji-Eun-photo.jpg" alt="picture of IU from allstarbio" />
+      <div id="img-caption">
+        This is Lee Ji-eun, called IU, from South Korea. She is 26 years old (27 in Korean age) and is a successful singer and an artist.
+      </div>
+    </div>
+    <div id="tribute-info">
+      <h2>
+          These are some of the songs she have sung in her 10 years of artist life.
+      </h2>
+      <ul>
+        <li>2010: Good Day</li>
+        <li>2015: Twenty-Three</li>
+        <li>2017: Palette</li>
+        <li>2018: Bbibbi</li>
+      </ul>
+      <h4>You can learn more about her by clicking here, redirecting to her <a id="tribute-link" href="https://en.wikipedia.org/wiki/IU_(singer)" target="_blank">wikipedia page</a></h4>
+    </div>
+  </body>
+</html>
